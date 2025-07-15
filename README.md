@@ -1,5 +1,5 @@
 # terraform-aws-project
 ## AWS Diagram
 
-![AWS Architecture]("AWS Diagram.drawio.png")
+![AWS Architecture](aws-diagram.png)
 
