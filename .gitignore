@@ -9,3 +9,4 @@
 .terraform.lock.hcl
 .terraform/
 ./git
+aws-diagram.png
