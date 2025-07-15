@@ -1,0 +1,11 @@
+# Ignore AWS credentials
+.aws/
+**/credentials
+**/config
+*.tfstate
+*.tfstate.backup
+*.env
+.env.*
+.terraform.lock.hcl
+.terraform/
+./git
